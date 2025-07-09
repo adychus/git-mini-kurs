@@ -1,1 +1,1 @@
-# git-mini-kurs
+# git-mini-kursgit 
